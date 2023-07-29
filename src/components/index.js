@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar'
+export { default as Footer } from './Footer'
+export { default as Exercise } from './exercise'
+export { default as Herobanner } from './Herobanner'
+export { default as Searchexercises } from './Searchexercises'
+export { default as HorizontalScrollBar } from './HorizontalScrollBar'
+export { default as Bodypart } from './Bodypart'
